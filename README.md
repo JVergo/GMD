@@ -8,8 +8,8 @@ https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-tower-defens
 youtube link
 https://youtu.be/TnArAUGoaeM
 
-Github pages <--- not working
-https://jvergo.github.io/GMD/
+Github pages
+https://jvergo.github.io/GMD/ <--- not working
 
 pc build
 https://drive.google.com/file/d/1m-yIEm9MVv7p86KBGiVkcmPf97zFCItE/view?usp=sharing
